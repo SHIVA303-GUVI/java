@@ -7,6 +7,7 @@ public class BankInfo extends AxisBank {
 	}
 	public void fixed() {
 		System.out.println("This is fixed account");
+		System.out.println("****");
 
 	}
 	public static void main(String[] args) {
